@@ -1,0 +1,43 @@
+/* 平成の個人ホームページ風スタイルシート */
+
+body {
+  font-family: "MS P Gothic", "MS PGothic", "ＭＳ Ｐゴシック", "Osaka", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+a {
+  color: #0000ff;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #800080;
+}
+
+h1, h2, h3 {
+  font-family: "HGS創英角ポップ体", "HG創英角ﾎﾟｯﾌﾟ体", "HGP創英角ﾎﾟｯﾌﾟ体", sans-serif;
+}
+
+.menu ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.menu ul li {
+  padding: 5px 0;
+}
+
+.menu ul li a:before {
+  content: "⇒ ";
+  color: #ff0099;
+}
+
+.main {
+  padding: 10px;
+}
