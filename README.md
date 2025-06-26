@@ -1,2 +1,4 @@
 # heisei-homepage
-gemini-cliに作ってもらった懐かしい個人ホームページのファイルたち
+gemini-cliに作ってもらった懐かしい個人ホームページ
+
+
